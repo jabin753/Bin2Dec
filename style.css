@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    background-color: black;
+    color: #fafafa;
+}
+main {
+    
+    width: 60vw;
+    margin: 0 auto;
+    font-size: 3.6rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.binaryField {
+    display: inline-block;
+}
+#convertBtn {
+    padding: 0 1rem;
+}
+#convertBtn:hover {
+    color: red;
+}
